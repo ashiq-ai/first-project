@@ -1,0 +1,87 @@
+body{
+    margin: 5%;
+    padding: 5%;
+    font-family: popins,Arial, Helvetica, sans-serif;
+}
+.section-one{
+    display: flex;
+    margin-bottom: 100px;
+}
+h1{
+    font-size: 50px;
+}
+.heading-color{
+    color: sandybrown;
+}
+.half-width{
+    width: 50%;
+}
+.half-width img{
+    width: 60%;
+}
+.btn{
+    background-color: tomato;
+    text-decoration: none;
+    color: white;
+    padding: 13px;
+    border-radius: 5px;
+    font-size: 16px;
+    margin-bottom: 45px;
+}
+.goal-continar{
+    margin-top: 40px;
+    margin-bottom: 80px;
+}
+.my-mission{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.my-mission h1{
+    font-size: 60px;
+}
+.section-two{
+    display: flex;
+    margin-top: 50px;
+    margin-left: 155px;
+    margin-right: 155px;
+}
+.section-two div{
+    padding-right: 13px;
+    border-radius: 26px;
+    margin-left: 24px;
+}
+.section-two img{
+    margin-top: 25px;
+    height: 141px;
+    width: 141px;
+}
+.mission{
+    background-color: redrgba(79, 157, 166, 0.1);
+}
+.vission{
+    background-color:rgba(255, 89, 89, 0.1) ;
+}
+.goals{
+    background-color: #FFF4D6;;
+}
+.section-three{
+    margin-top: 80px;
+    display: flex;
+}
+.section-four{
+    margin-top: 90px;
+    display: flex;
+}
+.section-four img{
+    margin-left: 50px;
+}
+footer{
+    background-color: #0B0D17;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    color: white;
+    text-align: center;
+    margin-top: 90px;
+}
